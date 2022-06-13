@@ -1,16 +1,24 @@
-### Hi there 👋
+### Dotfiles
 
-<!--
-**katawful/katawful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Neovim](https://github.com/katawful/dotfiles-nvim)   
+[i3](https://github.com/katawful/dotfiles-i3)   
+[polybar](https://github.com/katawful/dotfiles-polybar)   
+[rofi](https://github.com/katawful/dotfiles-rofi)   
 
-Here are some ideas to get you started:
+### Neovim Plugins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[kat.nvim](https://github.com/katawful/kat.nvim) - Programmatic warm blue colorscheme   
+[Kreative](https://github.com/katawful/kreative) - Colorscheme DIY backend - in progress   
+[obluavim](https://github.com/katawful/obluavim) - Filetype plugin for TES 4 Oblivion - in progress   
+
+### Vim plugins
+
+[vim-startify](https://github.com/katawful/vim-startify) - A fork of Startify that always updates padding for dynamic padding control   
+[obse.vim](https://github.com/katawful/obse.vim) - Syntax files for TES 4 Oblivion   
+[kat.vim](https://github.com/katawful/kat.vim) - Warm blue colorscheme   
+[Obli-Vim](https://github.com/katawful/Obli-Vim) - Deprecated filetype plugin for TES 4 Oblivion   
+
+### Other
+
+[Oblivion language reference](https://github.com/katawful/oblivion-lang-ref) - A language reference for TES 4 Oblivion   
+[katcros-fnl](https://github.com/katawful/katcros-fnl) - Fennel macros   

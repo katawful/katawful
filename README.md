@@ -22,3 +22,4 @@
 
 [Oblivion language reference](https://github.com/katawful/oblivion-lang-ref) - A language reference for TES 4 Oblivion   
 [katcros-fnl](https://github.com/katawful/katcros-fnl) - Fennel macros   
+[tree-sitter-obl](https://github.com/katawful/tree-sitter-obl) Tree-sitter grammar for the scripting language of TES 4 Oblivion
